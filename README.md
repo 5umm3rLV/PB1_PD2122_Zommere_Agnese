@@ -6,7 +6,7 @@ Maybe you need to install something.
 
 Run:
 
-python server.py
+python app.py
 
 Tests should pass.
 
